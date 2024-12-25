@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @sonerkeserci
-- 👀 I’m interested in game/app development
-- 🌱 I’m currently learning C#, C++ and Unity
 
 
 <!---
