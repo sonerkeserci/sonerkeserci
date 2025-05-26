@@ -1,5 +1,3 @@
-<h1 align="center">👋 Hi, I'm Soner!</h1>
-
 <p align="center">
   🚀 ASP.NET Developer · 🎯 Focused on MVC & Web API · 📊 Learning by building
 </p>
