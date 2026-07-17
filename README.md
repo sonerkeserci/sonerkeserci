@@ -1,8 +1,4 @@
-<p align="center">
-  🚀 ASP.NET Developer · 🎯 Focused on MVC & Web API · 📊 Learning by building
-</p>
 
----
 
 ### 🧰 Tech Stack
 <p align="center">
